@@ -1,7 +1,7 @@
 # CS2-training-overlay
 An adjustable screen overlay to practice aim and gamesense. Written in python.
 <br>
-Use the build .bat file to convert into .exe or just run the python script.
+Use the build .bat file to convert into .exe or just run overlay.py (need to have python installed)
 <br>
 Toggle on/off - B
 <br>
