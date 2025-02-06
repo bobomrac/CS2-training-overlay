@@ -1,5 +1,5 @@
 # CS2-training-overlay
-An adjustable screen overlay to practice aim and gamesense. Written in python.
+An amazing way to practice aim, positioning, angle check and gamesense. It is really hard to play with this but it makes you a god if you learn to master it. Written in python.
 <br>
 Use the build .bat file to convert into .exe or just run overlay.py (need to have python installed)
 <br>
